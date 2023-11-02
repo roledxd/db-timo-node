@@ -1,0 +1,9 @@
+{
+    "out": "./migrations-folder",
+    "schema": "./schema.js",
+    "breakpoint": false,
+    "driver": "pg",
+    "dbCredentials": {
+        "connectionString": "postgres://postgres:Passw0rd@localhost:5433/DBSalex"
+    }
+}
